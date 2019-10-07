@@ -1,6 +1,6 @@
 # How-Secure-is-Your-Password
 
-Typically I would use a tool like Hashcat but this is more of a way to teach myself how these tools work on a deeper level
+Typically I would use a tool like Hashcat but this is more of a way to teach myself how these tools work on a deeper level (Code coming soon)
 
 Research Taken From:
 
