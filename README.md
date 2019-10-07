@@ -15,3 +15,5 @@ https://hashcat.net/wiki/
 https://github.com/NSAKEY/nsa-rules
 
 https://wiki.skullsecurity.org/Passwords
+
+https://www.4armed.com/blog/hashcat-rule-based-attack/
